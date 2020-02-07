@@ -3,10 +3,16 @@
 *.DS_Store
 /gmc/.gradle
 /gmc/local.properties
+
 /gmc/.idea/caches/build_file_checksums.ser
 /gmc/.idea/libraries
 /gmc/.idea/modules.xml
 /gmc/.idea/workspace.xml
+/gmc/.idea/codeStyles/Project.xml
+/gmc/.idea/gradle.xml
+/gmc/.idea/misc.xml
+/gmc/.idea/runConfigurations.xml
+
 /gmc/build
 /gmc/captures
 /gmc/.externalNativeBuild
